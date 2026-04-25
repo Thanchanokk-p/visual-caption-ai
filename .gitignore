@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pt
+*.jpg
+*.pt
+temp_input.jpg
+test.jpg
+yolov8n.pt
