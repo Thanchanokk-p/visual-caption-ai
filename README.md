@@ -51,7 +51,7 @@ visual-caption-ai/
 ├── llm_engine.py       # OpenAI API integration and caption generation
 ├── README.md           # This file
 └── requirements.txt    # Dependencies for Hugging Face deployment
-
+```
 ---
 
 ## Setup
