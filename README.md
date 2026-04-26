@@ -43,7 +43,7 @@ Upload any photo and the app will:
 
 ## Project Structure
 visual-caption-ai/
-
+```
 ├── .env                # API keys — local only, never committed
 ├── .gitignore          # Excludes secrets, model weights, generated images
 ├── app.py              # Gradio UI — connects all components
